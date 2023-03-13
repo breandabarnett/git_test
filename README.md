@@ -1,4 +1,4 @@
 # git_test
 
-TOP repo
+The Odin Project first repo.
 Hello Odin!
